@@ -1,10 +1,11 @@
+Goal of this project
 =============
 
-#Goal of this project
+Machine Learning Algorithms in Python
+--------------
 
-##Machine Learning Algorithms in Python
-
-###Potential Projects
+Potential Projects
+----------
 ####Decision Tree Implementation
 
 ####Random Forest Implementation
